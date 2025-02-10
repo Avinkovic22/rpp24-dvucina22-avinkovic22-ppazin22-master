@@ -6,8 +6,8 @@ Aplikacija Carchive je namijenjena vođenju evidencije kod prodaje te iznajmljiv
 ## Specifikacija projekta
 Aplikacija će se temeljiti na client-server arhitekturi. Aplikacija će sadržavati sučelje za interakciju s korisnikom, dok će backend(server) pružati pozadinske servise kao što su autentifikacija, upravljanje podatcima i korisnicima.
 
-Oznaka | Naziv | Kratki opis | Odgovorni član tima
------- | ----- | ----------- | -------------------
+Oznaka | Naziv | Kratki opis
+------ | ----- | -----------
 F01 | Prijava i registracija | Sustav će omogućiti prijavu korisnika pomoću korisničkog imena i lozinke uz uvjet da podatci verificiraju i omoguće pristup aplikaciji. Registracija se koristi kao forma za slanje upita koji se mora odobriti od admina. |
 F02 | Upravljanje katalogom vozila | Sustav će omogućiti korisniku unos, izmjenu, pregled i brisanje podataka o vozilima. |
 F03 | Upravljanje katalogom kontakata | Sustav će omogućiti unos, izmjenu, pregled i brisanje podataka o kontaktima klijenata i partnera. |
