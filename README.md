@@ -1,5 +1,4 @@
 # Carchive
-## Projektni tim
 
 ## Opis domene
 Aplikacija Carchive je namijenjena vođenju evidencije kod prodaje te iznajmljivanje automobila pojedine auto-kuće. Primarni cilj ove aplikacije je pružanje cjelovitog sustava za praćenje i upravljanje većim brojem vozila, optimizacija resursa te smanjenju operativnih troškova. Sustav će omogućiti potporu auto-kućama u poboljšanju njihove učinkovitosti i održavanju vozila.
